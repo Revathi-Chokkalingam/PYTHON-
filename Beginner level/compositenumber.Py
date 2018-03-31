@@ -6,6 +6,6 @@ for i in range(1,value):
 if(f>1):
   print('The number is a composite number!')
 elif(value==1):
-  print('The number 1 is neither prime nor composite!')
+  print('The number 1 is either composite or prime')
 else:
   print('This is not a composite number!')
