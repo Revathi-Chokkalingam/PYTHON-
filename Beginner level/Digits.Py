@@ -1,7 +1,7 @@
 value=int(input("Enter number:"))
-count=0
+cc=0
 while(value>0):
-    count=count+1
+    cc=cc+1
     value=value//10
-print ("The number of digits in the given integer :",count)
+print ("The number of digits in the given integer :",cc)
 
